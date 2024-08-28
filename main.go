@@ -9,9 +9,4 @@ var ID = 3
 
 func main() {
 	fmt.Println("------", id, ID)
-	t(1)
-}
-
-func t(i int) {
-	fmt.Println("11111", i)
 }
