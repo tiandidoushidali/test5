@@ -10,3 +10,7 @@ var ID = 3
 func main() {
 	fmt.Println("------", id, ID)
 }
+
+func t() {
+	fmt.Println("1111")
+}
