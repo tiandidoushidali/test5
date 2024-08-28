@@ -13,4 +13,5 @@ func main() {
 
 func t() {
 	fmt.Println("1111")
+	fmt.Println("2222")
 }
