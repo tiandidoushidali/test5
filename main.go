@@ -5,8 +5,13 @@ import (
 )
 
 var id = 1
-var Id = 3
+var ID = 3
 
 func main() {
-	fmt.Println("------", id, Id)
+	fmt.Println("------", id, ID)
+	t(1)
+}
+
+func t(i int) {
+	fmt.Println("11111", i)
 }
