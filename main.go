@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+var id = 1
+
 func main() {
-	fmt.Println("------")
+	fmt.Println("------", id)
 }
