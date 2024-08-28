@@ -1,3 +1,4 @@
+# 生效前执行：pre-commit install
 exclude: '\.pb\.go$'
 repos:
   - repo: https://github.com/dnephin/pre-commit-golang
