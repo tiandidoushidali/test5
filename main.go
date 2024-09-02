@@ -8,10 +8,9 @@ var id = 1
 var ID = 3
 
 func main() {
-	fmt.Println("------", id, ID)
+	_ = t2
 }
 
-func t() {
-	fmt.Println("1111")
-	fmt.Println("2222")
+func t2() {
+	fmt.Println("1111111111")
 }
